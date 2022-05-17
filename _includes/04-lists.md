@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Family
+2. Sea
+  * Swimm
+  * Sun
+  * Take a picture
+4. Bike
